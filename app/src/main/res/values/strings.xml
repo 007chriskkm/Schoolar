@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Scholar</string>
+    <string name="country">country</string>
+    <string name="user_name">username</string>
+</resources>
